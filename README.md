@@ -31,6 +31,11 @@ sudo mv Findips_nmap /usr/local/bin/
 cd
 ```
 
+## :computer: Instalación en una Línea
+```bash
+wget https://raw.githubusercontent.com/JennValentine/Findips/main/install.sh; sudo chmod +x install.sh; sudo ./install.sh
+```
+
 ## :rocket: Modo de Uso
 
 Ejecutar el script en la red:
